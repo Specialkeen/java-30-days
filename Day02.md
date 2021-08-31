@@ -59,10 +59,8 @@ varibale : int float
 
 class VariableTest {
 	public static void  main(string [] arags){
-	
 	int myAge = 12;
 	System.out.printlm(myAge);
-	
 	}
 }
 
@@ -96,7 +94,6 @@ public static void  main(string [] arags){
 	char c3 = 'b'
 	//char type only one type
 	}
-
 }
 
 
