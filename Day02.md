@@ -56,14 +56,14 @@ varibale : int float
 	变量都在其作用域内有效
 	同一个域内不能定义两个同名变量
 
-/*
-class VariableTest {
-	public static void  main(string [] arags){
-	int myAge = 12;
-	System.out.printlm(myAge);
-	}
-}
-*/
+
+		class VariableTest {
+			public static void  main(string [] arags){
+			int myAge = 12;
+			System.out.printlm(myAge);
+			}
+		}
+
 
 java data type
 classify by data type
