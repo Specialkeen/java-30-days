@@ -84,17 +84,17 @@ classify by data type
 		成员变量 vs 局部变量
 	
 
-/*
-class VariableTest1 {
-public static void  main(string [] arags){
-	/long type variable must end with "L" no matter of capital letters or a lowercase letter
-	/float type variable must end with "F" no matter of capital letters or a lowercase letter 
-	int myAge = 12;
-	System.out.printlm(myAge);
-	char c3 = 'b'
-	//char type only one type
+
+	class VariableTest1 {
+	public static void  main(string [] arags){
+		/long type variable must end with "L" no matter of capital letters or a lowercase letter
+		/float type variable must end with "F" no matter of capital letters or a lowercase letter 
+		int myAge = 12;
+		System.out.printlm(myAge);
+		char c3 = 'b'
+		//char type only one type
+		}
 	}
-}
-*/
+
 
 
