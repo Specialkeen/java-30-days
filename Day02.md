@@ -50,21 +50,21 @@ variable name;multiword :xxxYyyZzz
 constant name:XXX_YYY_ZZZ
 
 varibale : int float 
-/* 
+
 1.变量的使用 变量的格式 数据类型 变量名 = 变量值；
 2.变量必须先声明，后去使用；
 	变量都在其作用域内有效
 	同一个域内不能定义两个同名变量
-*/
 
+/*
 class VariableTest {
 	public static void  main(string [] arags){
 	int myAge = 12;
 	System.out.printlm(myAge);
 	}
 }
+*/
 
-/*
 java data type
 classify by data type
 	primitive type : char\boolean
@@ -83,8 +83,8 @@ classify by data type
 	变量在类中声明的位置：
 		成员变量 vs 局部变量
 	
-*/
 
+/*
 class VariableTest1 {
 public static void  main(string [] arags){
 	/long type variable must end with "L" no matter of capital letters or a lowercase letter
@@ -95,6 +95,6 @@ public static void  main(string [] arags){
 	//char type only one type
 	}
 }
-
+*/
 
 
