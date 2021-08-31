@@ -1,6 +1,9 @@
 reserved word ：goto const
+
 identifier ：every word and $ or 0-9, except reserved word and key word
+
 no limitide of length but the first character must not number and can not use space in identifier 
+
 1、标识符用作给变量、方法和类命名。
 
 2、以字母、下划线“_”和“$”符开头，后面可跟字母、下划线“_”和“$”符或数字。
@@ -44,10 +47,10 @@ no limitide of length but the first character must not number and can not use sp
 总之，遵循这个命名规范，不止有利于别人能够更快速的读懂我们的代码，了解代码中的成员，还能够让我们在实际开发中减少很多不必要的麻烦。
 见名知意
 
-package name : xxxyyyzzz 
-class name : XxxYyyZzz
-variable name;multiword :xxxYyyZzz
-constant name:XXX_YYY_ZZZ
+	package name : xxxyyyzzz 
+	class name : XxxYyyZzz
+	variable name;multiword :xxxYyyZzz
+	constant name:XXX_YYY_ZZZ
 
 varibale : int float 
 
